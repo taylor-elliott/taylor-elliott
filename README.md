@@ -91,7 +91,7 @@ I'm **Taylor**, a software engineer based in Ontario, Canada.
 
 [![API Development](https://img.shields.io/badge/API-REST%20%26%20GraphQL-61DAFB?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)  
 [![Language Server Protocol](https://img.shields.io/badge/Language%20Server%20Protocol-LSP-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://microsoft.github.io/language-server-protocol/)  
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn%20%7C%20Pandas-4CAF50?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn%20%7C%20Pandas-4CAF50?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)  
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Python%20AI-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ---
