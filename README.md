@@ -7,13 +7,21 @@ I'm **Taylor**, a software engineer based in Ontario, Canada.
 ### Focus
 
 <p>
-  <a href="https://www.typescriptlang.org/" rel="noopener noreferrer" style="margin-right: 12px; margin-bottom: 6px; display: inline-block; text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="noopener noreferrer" style="margin-right: 12px; margin-bottom: 6px; display: inline-block; text-decoration: none; outline: none;">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noopener noreferrer" style="margin-right: 12px; margin-bottom: 6px; display: inline-block; text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="noopener noreferrer" style="margin-right: 12px; margin-bottom: 6px; display: inline-block; text-decoration: none; outline: none;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </a>
 </p>
+<p>
+  <a href="https://www.postgresql.org/" rel="noopener noreferrer" style="margin-right: 12px; margin-bottom: 6px; display: inline-block; text-decoration: none; outline: none;"> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /> </a>
+  <a href="https://www.postgresql.org/" rel="noopener noreferrer" style="margin-right: 12px; margin-bottom: 6px; display: inline-block; text-decoration: none; outline: none;">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </a>
+
+</p>
+
 <p>
   <a href="https://www.python.org/" rel="noopener noreferrer" style="margin-right: 12px; margin-bottom: 6px; display: inline-block; text-decoration: none; outline: none;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -25,27 +33,21 @@ I'm **Taylor**, a software engineer based in Ontario, Canada.
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   </a>
 </p>
-  <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="noopener noreferrer" style="margin-right: 12px; margin-bottom: 6px; display: inline-block; text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+<p>
+  <a href="https://www.typescriptlang.org/" rel="noopener noreferrer" style="margin-right: 12px; margin-bottom: 6px; display: inline-block; text-decoration: none; outline: none;">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </a>
-  <a href="https://www.postgresql.org/" rel="noopener noreferrer" style="margin-right: 12px; margin-bottom: 6px; display: inline-block; text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="noopener noreferrer" style="margin-right: 12px; margin-bottom: 6px; display: inline-block; text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noopener noreferrer" style="margin-right: 12px; margin-bottom: 6px; display: inline-block; text-decoration: none; outline: none;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
 </p>
-
 ---
 
 #### Frameworks & Tools
 <p>
   <a href="https://git-scm.com/" rel="noopener noreferrer" style="margin-right: 12px; margin-bottom: 6px; display: inline-block; text-decoration: none; outline: none;">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://github.com/" rel="noopener noreferrer" style="margin-right: 12px; margin-bottom: 6px; display: inline-block; text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
