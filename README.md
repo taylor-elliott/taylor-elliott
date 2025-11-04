@@ -20,12 +20,6 @@ I'm **Taylor**, a software engineer based in Ontario, Canada.
 **Tools & Platforms:**
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Methodologies:**
-- ![TDD](https://img.shields.io/badge/-TDD-000000?style=flat-square&logo=unittest&logoColor=white)
-- ![Agile](https://img.shields.io/badge/-Agile-6f7b8d?style=flat-square&logo=agile&logoColor=white)
-- ![CI/CD](https://img.shields.io/badge/-CI/CD-7A4DFF?style=flat-square&logo=gitlab&logoColor=white)
-
 ---
 
 ### Languages
